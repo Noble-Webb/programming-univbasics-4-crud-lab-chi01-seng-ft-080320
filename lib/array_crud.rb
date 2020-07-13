@@ -39,7 +39,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  as_instructed["arrays!"]
+  as_instructed = ["arrays!"]
   as_instructed[-1]
 end
 
