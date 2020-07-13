@@ -44,5 +44,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+  last = ["array", "4", "soap"]
+  last[3] = "totally"
 end
